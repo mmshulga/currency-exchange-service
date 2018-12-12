@@ -9,4 +9,5 @@ public class ExchangeValue {
     private String from;
     private String to;
     private BigDecimal multiplier;
+    private int port;
 }
